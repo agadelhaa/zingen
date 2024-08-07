@@ -9,7 +9,7 @@ Ele pode ser visualizado pelo link : https://agadelhaa.github.io/zingen/
 - [Funcionalidades](#funcionalidades)
 - [Tecnologias Utilizadas](#tecnologias-utilizadas)
 
-
+![Zingen landing page](https://github.com/agadelhaa/zingen/blob/main/zingen1.png)
 
 ## Visão Geral
 
